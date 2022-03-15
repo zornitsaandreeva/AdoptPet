@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\Adopt\\Adopt.csproj": {}
+    "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\AdoptPet\\Adopt\\Adopt.csproj": {}
   },
   "projects": {
-    "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\Adopt.Core\\Adopt.Core.csproj": {
+    "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\AdoptPet\\Adopt.Core\\Adopt.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\Adopt.Core\\Adopt.Core.csproj",
+        "projectUniqueName": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\AdoptPet\\Adopt.Core\\Adopt.Core.csproj",
         "projectName": "Adopt.Core",
-        "projectPath": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\Adopt.Core\\Adopt.Core.csproj",
+        "projectPath": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\AdoptPet\\Adopt.Core\\Adopt.Core.csproj",
         "packagesPath": "C:\\Users\\Sony\\.nuget\\packages\\",
-        "outputPath": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\Adopt.Core\\obj\\",
+        "outputPath": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\AdoptPet\\Adopt.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\Adopt.Infrastructure\\Adopt.Infrastructure.csproj": {
-                "projectPath": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\Adopt.Infrastructure\\Adopt.Infrastructure.csproj"
+              "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\AdoptPet\\Adopt.Infrastructure\\Adopt.Infrastructure.csproj": {
+                "projectPath": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\AdoptPet\\Adopt.Infrastructure\\Adopt.Infrastructure.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\Adopt.Infrastructure\\Adopt.Infrastructure.csproj": {
+    "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\AdoptPet\\Adopt.Infrastructure\\Adopt.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\Adopt.Infrastructure\\Adopt.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\AdoptPet\\Adopt.Infrastructure\\Adopt.Infrastructure.csproj",
         "projectName": "Adopt.Infrastructure",
-        "projectPath": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\Adopt.Infrastructure\\Adopt.Infrastructure.csproj",
+        "projectPath": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\AdoptPet\\Adopt.Infrastructure\\Adopt.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Sony\\.nuget\\packages\\",
-        "outputPath": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\Adopt.Infrastructure\\obj\\",
+        "outputPath": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\AdoptPet\\Adopt.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -124,14 +124,14 @@
         }
       }
     },
-    "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\Adopt\\Adopt.csproj": {
+    "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\AdoptPet\\Adopt\\Adopt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\Adopt\\Adopt.csproj",
+        "projectUniqueName": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\AdoptPet\\Adopt\\Adopt.csproj",
         "projectName": "Adopt",
-        "projectPath": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\Adopt\\Adopt.csproj",
+        "projectPath": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\AdoptPet\\Adopt\\Adopt.csproj",
         "packagesPath": "C:\\Users\\Sony\\.nuget\\packages\\",
-        "outputPath": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\Adopt\\obj\\",
+        "outputPath": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\AdoptPet\\Adopt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -152,8 +152,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\Adopt.Core\\Adopt.Core.csproj": {
-                "projectPath": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\Adopt.Core\\Adopt.Core.csproj"
+              "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\AdoptPet\\Adopt.Core\\Adopt.Core.csproj": {
+                "projectPath": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\AdoptPet\\Adopt.Core\\Adopt.Core.csproj"
               }
             }
           }

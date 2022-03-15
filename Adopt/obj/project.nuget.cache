@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uLvWS2d3MY2i+9zlUnB1t2YsAhHuOd61tZJ/olUrMUboU8mZI7SP6NshxRXgWCXTqGudP9XDk+pfCrJNZ8yuzQ==",
+  "dgSpecHash": "mJN+HjaM6TnzWkcXXQ/b26KLVr7Q0J5EjmLAyk7MY8ms/OOPhO0dh7Pc+U2J5M0bJBVMFX/60ssZQuwphepnEw==",
   "success": true,
-  "projectFilePath": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\Adopt\\Adopt.csproj",
+  "projectFilePath": "D:\\Soft Uni\\Web\\ASP.NET\\Adopt\\AdoptPet\\Adopt\\Adopt.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sony\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sony\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.14\\microsoft.aspnetcore.cryptography.internal.5.0.14.nupkg.sha512",

@@ -2167,6 +2167,10 @@
       "Adopt.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.12",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.12"
+        },
         "compile": {
           "bin/placeholder/Adopt.Infrastructure.dll": {}
         },

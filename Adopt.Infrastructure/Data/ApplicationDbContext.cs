@@ -12,10 +12,10 @@
         {
         }
 
-        //public DbSet<Pet> Pets { get; set; }
-        //public DbSet<Breed> Breeds { get; set; }
-        //public DbSet<Category> Categories { get; set; }
-        //public DbSet<CurrentHome> CurrentHomes { get; set; }
-        //public DbSet<Image> Images { get; set; }
+        public DbSet<Pet> Pets { get; set; }
+        public DbSet<Breed> Breeds { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<CurrentHome> CurrentHomes { get; set; }
+        public DbSet<Image> Images { get; set; }
     }
 }

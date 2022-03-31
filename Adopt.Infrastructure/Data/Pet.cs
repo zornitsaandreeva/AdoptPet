@@ -21,6 +21,14 @@
         public string Sex { get; set; }
         public int Age { get; set; }
         public int BreedId { get; set; }
+
+        [Required]
+        [StringLength(1500)]
+        public string Description { get; set; }
+
+        [Required]
+        [StringLength(20)]
+        public string Status { get; set; }
         public virtual Breed Breed { get; set; }
         public int CategoryId { get; set; }
         public virtual Category Category { get; set; }
